@@ -81,7 +81,7 @@ void aguardarJogador() {
         }
       }
     }
-    //verificar a jogada
+    //verificar a jogad
     if (sequencia[passo] != botao_pressionado) {
       //efeito luminoso/sonoro indicando que o jogador perdeu
       for (int i = 0; i <= 3; i++) {
